@@ -1,0 +1,12 @@
+.products {
+  margin-left: 3%;
+}
+
+.products h2 {
+  margin: 0.5rem auto;
+  font-size: 1.5rem;
+}
+
+.productLists {
+  display: flex;
+}

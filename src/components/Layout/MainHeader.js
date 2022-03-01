@@ -19,7 +19,7 @@ const MainHeader = (props) => {
               "font-size-medium",
             ].join(" ")}
           >
-            Decathlon
+            Raj.com
           </p>
         </NavLink>
       </h2>
